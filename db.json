@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin1@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "9e9d",
+      "username": "izoh",
+      "password": "2345",
+      "email": "isaac.ngahu@student.moringaschool.com"
+    },
+    {
+      "id": "04cb",
+      "username": "Bridgo",
+      "password": "12345",
+      "email": "ng.a.h.u34@gmail.com"
+    }
+  ],
+  "devices": [
+    {
+      "device_name": "tv",
+      "device_status": "on",
+      "device_location": "sitting_room",
+      "id": "cd52"
+    },
+    {
+      "device_name": "thermostat",
+      "device_status": "70degrees",
+      "device_location": "sitting_room",
+      "id": "4627"
+    },
+    {
+      "device_name": "lights",
+      "device_status": "off",
+      "device_location": "bedroom1",
+      "id": "1cda"
+    },
+    {
+      "device_name": "lights",
+      "device_status": "on",
+      "device_location": "kitchen",
+      "id": "0280"
+    },
+    {
+      "device_name": "lights",
+      "device_status": "on",
+      "device_location": "sitting_room",
+      "id": "b76c"
+    },
+    {
+      "device_name": "speaker",
+      "device_status": "off",
+      "device_location": "sitting_room",
+      "id": "cc1d"
+    }
+  ]
+}
